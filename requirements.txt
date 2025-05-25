@@ -1,0 +1,7 @@
+Flask
+transformers
+torch
+sentence-transformers
+scikit-learn
+requests
+python-dotenv
