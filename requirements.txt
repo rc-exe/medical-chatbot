@@ -1,7 +1,11 @@
-Flask
+flask
+flask-cors
 transformers
 torch
-sentence-transformers
 scikit-learn
+nltk
+spacy
+pandas
+numpy
+gunicorn
 requests
-python-dotenv
